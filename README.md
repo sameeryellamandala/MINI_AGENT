@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Signal Search
 
 Signal Search is a fast, persistent chat agent built for a one-tool challenge. Its only model-callable tool is Groq's built-in `browser_search`. It searches when facts need verification, cites sources, and remembers every question together with the time it was asked.
