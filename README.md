@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="1912" height="1027" alt="image" src="https://github.com/user-attachments/assets/670dca5d-9178-44f8-a5a9-2bd720c8ee6e" />
+
 
 # Signal Search
 
